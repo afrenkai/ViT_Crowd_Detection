@@ -1,0 +1,13 @@
+torch
+torchvision
+pillow
+numpy
+scipy
+pandas
+transformers
+tqdm
+pandas
+mlcroissant
+Jupyter
+notebook
+matplotlib
